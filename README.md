@@ -2,4 +2,4 @@
 
 Our mission is to create a collection of classic open source games.
 
-Play the game at `githubschool.github.io/judemcjohn/github-games`
+Play the game at `judemcjohn.github.io/github-games`
